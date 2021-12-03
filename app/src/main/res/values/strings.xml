@@ -1,13 +1,9 @@
 <resources>
-    <string name="app_name">TODiouf</string>
-    <string name="navigation_drawer_open">Open navigation drawer</string>
-    <string name="navigation_drawer_close">Close navigation drawer</string>
-    <string name="nav_header_title">Android Studio</string>
-    <string name="nav_header_subtitle">android.studio@android.com</string>
-    <string name="nav_header_desc">Navigation header</string>
-    <string name="action_settings">Settings</string>
-
-    <string name="menu_home">Home</string>
-    <string name="menu_gallery">Gallery</string>
-    <string name="menu_slideshow">Slideshow</string>
+    <string name="app_name">PORFOLIO</string>
+    <string name="anne1">2018-2019</string>
+    <string name="formation1">Licence 3 en Informatique option Génie Logiciél à UNIPRO </string>
+    <string name="anne2">2017-2018</string>
+    <string name="formation2">Licence 3 en Informatique option système d’information à l’université Gaston Berger de Saint-Louis </string>
+    <string name="anne3">2017-2018</string>
+    <string name="formation3">Baccalauréat scientifique au lycée d’enseignement général de Diourbel </string>
 </resources>
